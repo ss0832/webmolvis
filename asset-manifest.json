@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/webmolvis/static/css/main.f0a849c2.css",
-    "main.js": "/webmolvis/static/js/main.1089dd8f.js",
+    "main.js": "/webmolvis/static/js/main.7c68cc2e.js",
     "static/js/453.39fe139f.chunk.js": "/webmolvis/static/js/453.39fe139f.chunk.js",
     "index.html": "/webmolvis/index.html",
     "main.f0a849c2.css.map": "/webmolvis/static/css/main.f0a849c2.css.map",
-    "main.1089dd8f.js.map": "/webmolvis/static/js/main.1089dd8f.js.map",
+    "main.7c68cc2e.js.map": "/webmolvis/static/js/main.7c68cc2e.js.map",
     "453.39fe139f.chunk.js.map": "/webmolvis/static/js/453.39fe139f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0a849c2.css",
-    "static/js/main.1089dd8f.js"
+    "static/js/main.7c68cc2e.js"
   ]
 }
